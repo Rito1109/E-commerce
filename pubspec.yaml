@@ -1,0 +1,43 @@
+name: diplom
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/banners/banner1.jpg
+    - assets/banners/banner2.jpg
+    - assets/banners/banner3.jpg
+    - assets/banners/banner4.jpg
+    - assets/banners/banner5.jpg
+    - assets/banners/banner6.jpg
+    - assets/banners/banner7.jpg
+    - assets/banners/banner8.jpg
+    - assets/categories/kilos.png
+    - assets/categories/mobiles.png
+    - assets/categories/fashion.png
+    - assets/categories/electronics.png
+    - assets/categories/home.png
+    - assets/categories/appliances.png
+    - assets/categories/medical.png
+    - assets/categories/toys.png
+    - assets/categories/books.png
+    - assets/categories/restaurant.png
+    - assets/products/projector.jpg
+   
